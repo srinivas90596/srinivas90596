@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 you can reach me via linkedin @srinivas reddy,intsa:srinivas_k_reddy
+- This repository contains all my mini project files
+- 
 
 <!---
 srinivas90596/srinivas90596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
